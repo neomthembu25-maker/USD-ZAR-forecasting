@@ -1,0 +1,13 @@
+"","DM","p"
+"Mean",-18.249,0
+"NNAR",-5.825,0
+"ETS",-5.557,0
+"Drift",-5.511,0
+"TSLM trend+seas",-4.581,0
+"TSLM trend",-4.573,0
+"MA(12)",-3.916,0
+"MA(3)",1.732,0.09
+"SES",3.282,0.002
+"Random walk",NA,NA
+"ARIMA(0,1,0)",NA,NA
+"auto.arima",NA,NA
